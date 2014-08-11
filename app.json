@@ -1,0 +1,14 @@
+{
+  "name": "Echo Server",
+  "description": "A simple echo server",
+  "keywords": [
+    "echo"
+  ],
+  "repository": "https://github.com/rwdaigle/echo-server",
+  "success_url": "/",
+  "env": {
+  },
+  "addons": [
+    "papertrail"
+  ]
+}
